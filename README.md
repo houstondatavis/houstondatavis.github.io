@@ -6,4 +6,10 @@
 - banner
 - background & color scheme
 - about us section
-- data jam format explainer
+- What types of things do we do? 
+  - data jam format explainer
+  - talks (examples)
+  - data jam experiments
+- Gallery of Past Data Jam projects
+- github
+- slack
