@@ -10,6 +10,8 @@
   - data jam format explainer
   - talks (examples)
   - data jam experiments
-- Gallery of Past Data Jam projects
-- github
-- slack
+- Links & Resources
+  - Gallery of Past Data Jam projects
+  - github page 
+    - what is on here
+  - Slack team
