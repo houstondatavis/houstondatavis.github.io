@@ -7,7 +7,7 @@
 
 ## Who are we?
 We're a diverse group of people interested or professional practicing data visualization. 
-Our leaders are: Neeraj Tandon (Organizer), Amanda Shih (Co-Organizer), J. Kim (Co-Organizer), Justin (Co-Organizer), and Yulan Lin (Co-Organizer)
+Our leaders are: Neeraj Tandon (Organizer), Amanda Shih (Co-Organizer), J. Kim (Co-Organizer), Justin Gosses (Co-Organizer), and Yulan Lin (Co-Organizer)
 
 ## What types of things do we do?
 
