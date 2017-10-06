@@ -3,7 +3,8 @@
 ## This is the repo for the front page of Houston Data Visualization Group
 ## It is in progress
 
-## About Us
+<<<<<<< HEAD
+### About Us
 
 ## Who are we?
 We're a diverse group of people interested or professional practicing data visualization. 
